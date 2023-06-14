@@ -1,7 +1,7 @@
 # Multimodal
 Multimodal Research in Automatic Persuasion Recognition
 
-# Investigating Persuasive Communication with Multi-modal Machine Learning
+# Investigating Persuasive Communication with Multi-modal ML
 This repository presents a multi-modal approach to investigating, analyzing, and interpreting persuasive communication using machine learning techniques.
 
 ## Introduction
